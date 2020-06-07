@@ -1,0 +1,7 @@
+This is another sample input file.
+Note that non-alphabetic characters 
+(like these: "{}:<>()*&^%)
+are simply copied to the output file,
+and are not reported in the counts.
+
+Be sure to test against a variety of buffer sizes!
